@@ -1,0 +1,34 @@
+Embed #1:
+<iframe src="https://www.retrogames.cc/embed/29742-dr-robotnik-s-mean-bean-machine-usa.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+Embed #2:
+<div style="width:640px;height:480px;max-width:100%">
+  <div id="game"></div>
+</div>
+<script type="text/javascript">
+    EJS_player = '#game';
+    EJS_biosUrl = ''; // Url to Famicom Disk System bios
+    EJS_gameUrl = 'https://raw.githubusercontent.com/auserishere/Untitled-Game-Site-Resources/main/Super_Mario_Bros_(E)%5B1%5D.nes'; // Url to Game rom
+    EJS_core = 'nes'; // Optional core: mesen, nestopia
+    EJS_lightgun = false; // Lightgun
+</script>
+<script src="https://www.emulatorjs.com/loader.js"></script>
+Embed #3:
+https://game316009.konggames.com/gamez/0031/6009/live/index.html
+Embed #4:
+https://scratch.mit.edu/projects/389464290/embed
+Embed #5:
+https://scratch.mit.edu/projects/10128407/embed
+Embed #6:
+https://scratch.mit.edu/projects/523967150/embed
+Embed #7:
+https://motox3m.co/moto-x3m.embed
+Embed #8:
+https://hczhcz.github.io/Flappy-2048/
+Embed #9:
+https://script.google.com/macros/s/AKfycbya1HhgYEWr4fXKrikh0H9A7VOLVjnCsUzFkYdYrECQBnHA4Q/exec
+Embed #10
+https://2048game.com/
+
+Embed link generator:
+https://www.iframe-generator.com/
+https://www.zazzlemedia.co.uk/embed-code-generator-tool/#gref
